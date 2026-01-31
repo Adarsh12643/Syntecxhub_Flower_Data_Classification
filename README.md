@@ -24,9 +24,7 @@ The objective was to build a classifier that uses physical measurements (Sepal l
 
 ```text
 ├── flower_classification.py   # Main ML pipeline & comparison script
-├── README.md                  # Project documentation
-└── requirements.txt           # List of necessary Python libraries
-
+└── README.md                  # Project documentation
 ```
 
 ## ⚙️ How to Run
