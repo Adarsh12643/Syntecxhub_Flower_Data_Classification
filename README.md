@@ -1,9 +1,5 @@
 # 🌸 Flower Dataset Classification
 
-This project implements a multi-class machine learning model to categorize iris flowers into three species: **Setosa**, **Versicolor**, and **Virginica**. It was developed as a core assignment during my **Machine Learning Internship at Syntecxhub**.
-
-## 🚀 Project Overview
-
 The objective was to build a classifier that uses physical measurements (Sepal length/width and Petal length/width) to identify flower species. The project focuses on the end-to-end ML lifecycle: from Exploratory Data Analysis (EDA) to model comparison and interactive prediction.
 
 ## 🛠️ Key Features
